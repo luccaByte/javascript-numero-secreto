@@ -1,1 +1,1 @@
-# JavaScript-NumeroSecretoGame
+# Jogo do Numero Secreto
